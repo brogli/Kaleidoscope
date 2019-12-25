@@ -1,0 +1,29 @@
+{
+    "name": "KaleidoscopeAssemblyDefinition",
+    "references": [
+        "GUID:d528c8c98d269ca44a06cd9624a03945",
+        "GUID:8b845b123ab418448a8be2935fa804e0",
+        "GUID:3eae0364be2026648bf74846acb8a731",
+        "GUID:6e5480588ffa37d4f82fe96c45e8ce9c",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:bf043f86dbf1bda4398ec83eebe40b8c",
+        "GUID:46a67ded66a63de48b9329c593fc08de",
+        "GUID:a075b55b404a34748ac14ea9b6039911",
+        "GUID:78bd2ddd6e276394a9615c203e574844",
+        "GUID:344e024b5bc996043a11da352e2c9150",
+        "GUID:457756d89b35d2941b3e7b37b4ece6f1",
+        "GUID:304b399c7a7ca8f45afdcd73cf5552b3",
+        "GUID:5b5e144fbbfa9e24188cdc68fa9a4b3c",
+        "GUID:de1079f91ae5b43499b7c7e4f1269884",
+        ""
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
