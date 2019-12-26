@@ -11,3 +11,7 @@ If you want to include the Assets/_KaleidoscopeStuff/Kaleidoscope folder with th
 "ch.brogli.kaleidoscope" : "https://github.com/brogli/Kaleidoscope#upm"
 
 Haven't tested it yet though.
+
+
+Picture:
+![image](https://user-images.githubusercontent.com/28339986/71451767-b12a7880-277c-11ea-9033-49107fe13a90.png)
