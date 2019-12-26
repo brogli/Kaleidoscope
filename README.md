@@ -6,7 +6,8 @@ There's a demo-assets folder with an example scene. Don't forget to Edit>Project
 
 I've tested this with unity 2019.2.0f3 and HDRP version 7.1.7.
 
-How to include the Assets/_KaleidoscopeStuff/Kaleidoscope folder with the 2 files for the effect as a dependency:
+If you want to include the Assets/_KaleidoscopeStuff/Kaleidoscope folder with the 2 files for the effect as a dependency, add this line to your Packages/manifest.json:
 
-Add this line to your Packages/manifest.json:
 "ch.brogli.kaleidoscope" : "https://github.com/brogli/Kaleidoscope#upm"
+
+Haven't tested it yet though.
