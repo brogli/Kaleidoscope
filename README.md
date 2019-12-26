@@ -2,7 +2,7 @@
 
 A Kaleidoscope HLSL shader for Unity's custom post process with HDRP. 
 
-There's a demo-assets folder with an example scene. Don't forget to Edit>Project Settings>HDRP Settings>Add the effect in the After Post Process section.
+There's a demo-assets folder with an example scene. Don't forget to Edit>Project Settings>HDRP Settings>Add the effect in the After Post Process section. Also you need to add a Volume to your camera and a post-processing>custom>Kaleidoscope Override to that.
 
 I've tested this with Unity 2019.2.0f3 and HDRP version 7.1.7.
 
