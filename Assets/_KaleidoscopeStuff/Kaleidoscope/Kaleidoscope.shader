@@ -44,6 +44,12 @@
 
     float4 CustomPostProcess(Varyings input) : SV_Target
     {
+		/*****
+		This method was inspired by:
+		Teflo: https://www.shadertoy.com/view/4sXBRl,
+		Keijro: https://github.com/keijiro/KinoMirror/blob/master/Assets/Kino/Mirror/Shader/Mirror.shader
+		*****/
+
         UNITY_SETUP_STEREO_EYE_INDEX_POST_VERTEX(input);
 		float2 fragmentCoordinates = float2(input.texcoord.xy);
 		fragmentCoordinates.x = fragmentCoordinates.x * 2 / 9 * 16 - (1.0 * 16 / 9);
