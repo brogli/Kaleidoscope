@@ -344,4 +344,5 @@ MonoBehaviour:
   beforeTransparentCustomPostProcesses: []
   beforePostProcessCustomPostProcesses: []
   afterPostProcessCustomPostProcesses:
-  - Kaleidoscope, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Kaleidoscope, KaleidoscopeAssemblyDefinition, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
